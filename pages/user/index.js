@@ -20,7 +20,7 @@ const UserData = () => {
     }
 
     return (
-        <div className="container mt-4">
+        <div className="container mt-4" >
             <h4 className="mb-4">Users</h4>
             
                 <thead>
